@@ -1,8 +1,6 @@
 
+mads.amazon-adsystem.com
 c.amazon-adsystem.com
-aan.amazon.com
-auth.split.io
-fls-na.amazon.com
 
 
 # Contributed by Anudeep <anudeep@protonmail.com>
