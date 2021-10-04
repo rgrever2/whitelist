@@ -1,4 +1,8 @@
+fls-na.amazon.com
+
 # Contributed by Anudeep <anudeep@protonmail.com>
+
+
 # Project home page: https://github.com/anudeepND/whitelist
 # Licence: https://github.com/anudeepND/whitelist/blob/master/LICENSE
 
