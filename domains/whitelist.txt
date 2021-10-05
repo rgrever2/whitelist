@@ -1,10 +1,11 @@
 instagram.com
 api.mixpanel.com
-
+aan.amazon.com
 #AmazonApp
 mads.amazon-adsystem.com
 c.amazon-adsystem.com
 
+fls-na.amazon.com
 #SchoolSites
 canvas.com
 
