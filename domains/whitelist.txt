@@ -1,4 +1,5 @@
 instagram.com
+api.mixpanel.com
 
 #AmazonApp
 mads.amazon-adsystem.com
