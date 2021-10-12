@@ -1,6 +1,11 @@
-http://tower
-
 api.mixpanel.com
+
+#unraid
+tower
+tower.local
+Unraid.net
+
+
 
 #AmazonApp
 mads.amazon-adsystem.com
