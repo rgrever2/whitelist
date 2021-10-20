@@ -1,4 +1,6 @@
 
+database.clamav.net
+Clamav.net
 
 #unraid
 tower
