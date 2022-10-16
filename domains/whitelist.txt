@@ -10,7 +10,7 @@ Https://tower
 192.168.0.201
 6a8409bcd53dc0ffe1550aae11b946534a67fe87.unraid.net
 wanip4.unraid.net
-
+wanip6.unraid.net
 
 
 #AmazonApp
